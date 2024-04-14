@@ -1,0 +1,10 @@
+[
+{
+    "model": "only_app.category",
+    "pk": 1,
+    "fields": {
+        "name": "selfie",
+        "description": "home made photo"
+    }
+}
+]
